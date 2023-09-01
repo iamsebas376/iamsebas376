@@ -22,7 +22,7 @@ Amante de la tecnología 💻 y la música 🎸🎵.
 <h1 align="left">¡Hola👋, soy Sebastián!</h1>
 <h3 align="left">Desarrollador Frontend 💻 y músico 🎸.</h3>
 
-Soy un desarrollador Frontend con formación de Soporte TI de Google, y actualmente cursando la carrera de ingeniería informática en el Politécnico Colombiano Jaime Isaza Cadavid. Con habilidades en actitud de servicio, pensamiento analítico, aprendizaje continuo, autocontrol, puntualidad y trabajo en equipo.
+Desarrollador Frontend con formación de Soporte TI de Google, y actualmente cursando la carrera de ingeniería informática en el Politécnico Colombiano Jaime Isaza Cadavid. Con habilidades en actitud de servicio, pensamiento analítico, aprendizaje continuo, autocontrol, puntualidad y trabajo en equipo.
 
 
 <h3 align="left">Conecta conmigo:</h3>
