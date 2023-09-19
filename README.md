@@ -19,7 +19,7 @@ Amante de la tecnología 💻 y la música 🎸🎵.
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) -->
 
 
-<h1 align="left">¡Hola👋, soy Sebastián!</h1>
+<h1 align="left">¡Hola👋, soy Sebas!</h1>
 <h3 align="left">Desarrollador Frontend 💻 y músico 🎸.</h3>
 
 Desarrollador Frontend con formación de Soporte TI de Google, y actualmente cursando la carrera de ingeniería informática en el Politécnico Colombiano Jaime Isaza Cadavid. Con habilidades en actitud de servicio, pensamiento analítico, aprendizaje continuo, autocontrol, puntualidad y trabajo en equipo.
